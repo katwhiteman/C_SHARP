@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileioDrill", "FileioDrill\FileioDrill.csproj", "{DE84E7FE-083C-4DE0-B45C-5C1AEFC99FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE84E7FE-083C-4DE0-B45C-5C1AEFC99FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE84E7FE-083C-4DE0-B45C-5C1AEFC99FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE84E7FE-083C-4DE0-B45C-5C1AEFC99FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE84E7FE-083C-4DE0-B45C-5C1AEFC99FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCF5B5F3-9044-49A2-94F6-9E1B1F4A505F}
+	EndGlobalSection
+EndGlobal

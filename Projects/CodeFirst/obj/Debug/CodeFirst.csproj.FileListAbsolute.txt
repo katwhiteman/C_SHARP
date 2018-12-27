@@ -1,0 +1,28 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialCreate.resources
+C:\Users\Student\Documents\Visual Studio 2017\Projects\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialCreate.resources
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Student\Documents\GitHub\Tech-Academy-C-Sharp-Coding-Projects\CodeFirst\obj\Debug\CodeFirst.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaDrill", "LambdaDrill\LambdaDrill.csproj", "{2B2A95E4-8F8F-4F81-9FEC-1E0392943781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B2A95E4-8F8F-4F81-9FEC-1E0392943781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2A95E4-8F8F-4F81-9FEC-1E0392943781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2A95E4-8F8F-4F81-9FEC-1E0392943781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2A95E4-8F8F-4F81-9FEC-1E0392943781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE8C4B0-C6BD-4C74-9DAE-1CC2A2833407}
+	EndGlobalSection
+EndGlobal

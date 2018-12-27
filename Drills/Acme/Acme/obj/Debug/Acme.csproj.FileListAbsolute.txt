@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Acme\Acme\bin\Debug\Acme.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Acme\Acme\bin\Debug\Acme.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Acme\Acme\bin\Debug\Acme.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Acme\Acme\obj\Debug\Acme.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Acme\Acme\obj\Debug\Acme.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Acme\Acme\obj\Debug\Acme.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\Acme\Acme\obj\Debug\Acme.csprojAssemblyReference.cache
