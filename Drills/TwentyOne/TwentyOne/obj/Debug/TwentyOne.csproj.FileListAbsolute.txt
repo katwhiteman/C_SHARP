@@ -1,0 +1,10 @@
+C:\Projects\C_SHARP\Drills\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Projects\C_SHARP\Drills\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Projects\C_SHARP\Drills\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Projects\C_SHARP\Drills\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Projects\C_SHARP\Drills\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Projects\C_SHARP\Drills\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Projects\C_SHARP\Drills\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Projects\C_SHARP\Drills\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Projects\C_SHARP\Drills\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Projects\C_SHARP\Drills\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
