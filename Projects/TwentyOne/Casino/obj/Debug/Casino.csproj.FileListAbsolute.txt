@@ -1,0 +1,6 @@
+C:\Projects\C_SHARP\Drills\TwentyOne\Casino\bin\Debug\Casino.dll
+C:\Projects\C_SHARP\Drills\TwentyOne\Casino\bin\Debug\Casino.pdb
+C:\Projects\C_SHARP\Drills\TwentyOne\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Projects\C_SHARP\Drills\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Projects\C_SHARP\Drills\TwentyOne\Casino\obj\Debug\Casino.dll
+C:\Projects\C_SHARP\Drills\TwentyOne\Casino\obj\Debug\Casino.pdb
