@@ -8,4 +8,4 @@ It is a console app that prompts about user's grocery list, stores it to a datab
 
 Newsletter App - MVC webpage that allows user to sign up or delete themselves from a newsletter for Tech Academy.
 
-Student Management System - 
+TwentyOne - Console App for playing Black Jack
