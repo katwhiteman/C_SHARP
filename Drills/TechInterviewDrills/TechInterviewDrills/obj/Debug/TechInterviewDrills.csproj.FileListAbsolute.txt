@@ -1,0 +1,7 @@
+C:\Users\katwh\source\repos\TechInterviewDrills\TechInterviewDrills\bin\Debug\TechInterviewDrills.exe.config
+C:\Users\katwh\source\repos\TechInterviewDrills\TechInterviewDrills\bin\Debug\TechInterviewDrills.exe
+C:\Users\katwh\source\repos\TechInterviewDrills\TechInterviewDrills\bin\Debug\TechInterviewDrills.pdb
+C:\Users\katwh\source\repos\TechInterviewDrills\TechInterviewDrills\obj\Debug\TechInterviewDrills.csprojAssemblyReference.cache
+C:\Users\katwh\source\repos\TechInterviewDrills\TechInterviewDrills\obj\Debug\TechInterviewDrills.csproj.CoreCompileInputs.cache
+C:\Users\katwh\source\repos\TechInterviewDrills\TechInterviewDrills\obj\Debug\TechInterviewDrills.exe
+C:\Users\katwh\source\repos\TechInterviewDrills\TechInterviewDrills\obj\Debug\TechInterviewDrills.pdb
